@@ -3,5 +3,9 @@ Tunerchip til vRP
 
 Billede: https://imgur.com/2nv97hJ
 
-Du skal have VStancer for at kunne bruge scriptet ordentligt.
+**Krav før scriptet kommer til at fungere:**
+
+HT-Base
+
+VStancer
 https://forum.cfx.re/t/release-c-vstancer/79219
